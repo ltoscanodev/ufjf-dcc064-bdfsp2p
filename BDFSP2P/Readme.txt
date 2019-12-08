@@ -1,0 +1,1 @@
+keytool -genkey -alias bdfs_key -keyalg RSA -storepass "WkAJDaLUp84QUXdH5zW7Yp9d" -keypass "WkAJDaLUp84QUXdH5zW7Yp9d" -dname "cn=BDFS, c=BR" -keystore bdfs.jks
