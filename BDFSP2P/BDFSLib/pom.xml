@@ -14,7 +14,7 @@
         <mysql.version>8.0.9-rc</mysql.version>
         <hibernate.version>5.2.16.Final</hibernate.version>
         <spring.version>5.0.5.RELEASE</spring.version>
-        <log4j.version>2.11.0</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
     </properties>
     
     <dependencies>
